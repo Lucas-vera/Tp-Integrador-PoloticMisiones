@@ -1,0 +1,9 @@
+Alumno= Vera Lucas
+
+1- Se supone que se crea un usuario primeramente desde phpMyAdmin que seria el usuario "Root/Admin", el cual puede gestionar los servicios, los paquetes y los empleados en su totalidad. Pero para facilitar la visualizacion agregue un link que crea el usuario Root en la BD, con usuario="Admin" y contraseña="0"
+
+2- Se supone que el Usuario "Admin" instancia primeramente todos los Servicios dentro de la Base de Datos, al igual que los Paquetes Turisticos que serian preArmados.
+
+3- Los empleados solo pueden ver sus propias ventas y datos, y no pueden modificar ni los Servicios, ni los Paquetes Turisticos creados, ademas no pueden modificar su Cargo y su Sueldo (Solo el Admin).
+
+
